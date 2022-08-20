@@ -6,7 +6,7 @@
   <a href="https://www.instagram.com/ngtrizminh/">
     <img src="https://img.shields.io/badge/Instagram-e95950?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
-  <a href="https://www.linkedin.com/in/yoshinewa/">
+  <a href="https://www.linkedin.com/in/trizminh/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
 </div>
