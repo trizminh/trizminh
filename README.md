@@ -29,7 +29,7 @@
 ---
 
 ### :man_technologist: About me:
-- :office: I am a senior student who is currently studying in University of Information Technology, VNU - HCM City from Vietnam <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fb-1f1f3.png" width="15">.
+- :office: I am a senior student who is currently studying at University of Information Technology, VNU - HCM City from Vietnam <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fb-1f1f3.png" width="15">.
 - :telescope: My major is Software Engineering and I have experience on working with front-end libraries/frameworks for mobile and web applications.
 - :computer: Currently, I am focusing on Game Development.
 - :mailbox: How to reach me: Email me at minh.ngntri@gmail.com or contact me via above platforms.
