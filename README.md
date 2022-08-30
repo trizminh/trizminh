@@ -49,5 +49,5 @@
 ---
 
 ### :signal_strength: My stats:
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trizminh&theme=dark&background=2596be)](https://git.io/streak-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trizminh&layout=compact&theme=darkbackground=2596be)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=trizminh&theme=dark&background=0D1117)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=trizminh&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
