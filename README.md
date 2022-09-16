@@ -25,32 +25,36 @@
 ---
 
 ### :man_technologist: About me:
-<a href="https://app.daily.dev/trizminh" target="_blank">
-  <img
-    width="256"
-    align="right"
-    src="https://api.daily.dev/devcards/e503a4b97ec844488964380ef75c4226.png?r=5y0" width="400" alt="Nguyễn Trí Minh's Dev Card""
-  />
-</a>
-  
-- :office: I am a senior student who is currently studying at University of Information Technology, VNU - HCM City from Vietnam <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fb-1f1f3.png" width="15">.
-- :telescope: My major is Software Engineering and I have experience on working with front-end libraries/frameworks for mobile and web applications.
-- :computer: Currently, I am focusing on Game Development.
-- :mailbox: How to reach me: Email me at minh.ngntri@gmail.com or contact me via above platforms.
+<div align="left">
+  <a href="https://app.daily.dev/trizminh" target="_blank">
+    <img
+      width="256"
+      align="right"
+      src="https://api.daily.dev/devcards/e503a4b97ec844488964380ef75c4226.png?r=5y0" width="400" alt="Nguyễn Trí Minh's Dev Card""
+    />
+  </a>
+
+  - :office: I am a senior student who is currently studying at University of Information Technology, VNU - HCM City from Vietnam <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fb-1f1f3.png" width="15">.
+  - :telescope: My major is Software Engineering and I have experience on working with front-end libraries/frameworks for mobile and web applications.
+  - :computer: Currently, I am focusing on Game Development.
+  - :mailbox: How to reach me: Email me at minh.ngntri@gmail.com or contact me via above platforms.
+</div>
 
 ---
 
 ### :hammer_and_wrench: Technologies:
-<div align="center">
-  <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Java" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;  
-  <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>&nbsp;
-  <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>&nbsp;   
+<div align="left">
+  <div align="center">
+    <img src="https://github.com/devicons/devicon/blob/master/icons/cplusplus/cplusplus-original.svg" alt="C++" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" alt="C#" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dart/dart-original.svg" alt="Java" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/tailwindcss/tailwindcss-original-wordmark.svg" alt="Tailwind CSS" width="40" height="40"/>&nbsp;  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg" alt="ReactJS" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain.svg" alt="Firebase" width="40" height="40"/>&nbsp;   
+  </div>
 </div>
 
 ---
