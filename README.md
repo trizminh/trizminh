@@ -6,8 +6,7 @@
   <a href="https://www.linkedin.com/in/trizminh/">
     <img src="https://img.shields.io/badge/LinkedIn-0072b1?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-</div>
-
+  
 <div id="profile_views" align="center">
   <img src="https://komarev.com/ghpvc/?username=yoshinewa&style=flat-square&color=013220" alt=""/>
 </div>
@@ -26,6 +25,14 @@
 ---
 
 ### :man_technologist: About me:
+<a href="https://app.daily.dev/trizminh" target="_blank">
+  <img
+    width="256"
+    align="right"
+    src="https://api.daily.dev/devcards/e503a4b97ec844488964380ef75c4226.png?r=5y0" width="400" alt="Nguyễn Trí Minh's Dev Card""
+  />
+</a>
+  
 - :office: I am a senior student who is currently studying at University of Information Technology, VNU - HCM City from Vietnam <img src="https://images.emojiterra.com/google/noto-emoji/v2.034/128px/1f1fb-1f1f3.png" width="15">.
 - :telescope: My major is Software Engineering and I have experience on working with front-end libraries/frameworks for mobile and web applications.
 - :computer: Currently, I am focusing on Game Development.
