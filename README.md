@@ -19,7 +19,7 @@
 
 <!--Main section-->
 <div align="center">
-  <img src="https://i.ibb.co/4NJswS5/Horror-Island.png"/>
+  <img src="https://i.ibb.co/k4bjpMT/BG.png"/>
 </div>
 
 ---
