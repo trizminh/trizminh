@@ -30,7 +30,7 @@
     <img
       width="256"
       align="right"
-      src="https://api.daily.dev/devcards/e503a4b97ec844488964380ef75c4226.png?r=5y0" width="400" alt="Nguyễn Trí Minh's Dev Card""
+      src="https://api.daily.dev/devcards/e503a4b97ec844488964380ef75c4226.png?r=5g3" width="400" alt="Nguyễn Trí Minh's Dev Card""
     />
   </a>
 
